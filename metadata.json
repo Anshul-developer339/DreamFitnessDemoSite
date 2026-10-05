@@ -1,0 +1,8 @@
+{
+  "name": "Dream Fitness Gym Muradnagar",
+  "description": "Best gym in Muradnagar, Uttar Pradesh featuring top-notch imported equipment, certified trainers, female trainer availability, and affordable membership plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
